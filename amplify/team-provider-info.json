@@ -10,6 +10,14 @@
       "StackName": "amplify-testprj-dev-213154",
       "StackId": "arn:aws:cloudformation:ap-northeast-2:196092325216:stack/amplify-testprj-dev-213154/1e060a00-8dea-11ee-8abf-02ced03cd3f2",
       "AmplifyAppId": "d340ckk09fpi1i"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d340ckk09fpi1i",
+          "type": "cicd"
+        }
+      }
     }
   }
 }
